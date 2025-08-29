@@ -189,8 +189,31 @@ just running this tools 😃
 
 
 #### some writeups : 
-[https://bevijaygupta.medium.com/bypass-firewall-by-finding-origin-ip-132cf675c0c8](https://bevijaygupta.medium.com/bypass-firewall-by-finding-origin-ip-132cf675c0c8)
-[https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342](https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342)
-[https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e](https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e)
-[https://infosecwriteups.com/this-tool-helped-me-to-find-origin-ip-automated-way-9a95632d65fe](https://infosecwriteups.com/this-tool-helped-me-to-find-origin-ip-automated-way-9a95632d65fe)
+- [https://bevijaygupta.medium.com/bypass-firewall-by-finding-origin-ip-132cf675c0c8](https://bevijaygupta.medium.com/bypass-firewall-by-finding-origin-ip-132cf675c0c8)
+
+- [https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342](https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342)
+
+- [https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e](https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e)
+
+- [https://infosecwriteups.com/this-tool-helped-me-to-find-origin-ip-automated-way-9a95632d65fe](https://infosecwriteups.com/this-tool-helped-me-to-find-origin-ip-automated-way-9a95632d65fe)
+
+- [Automate and finds the IP address of a website behind Cloudflare](https://systemweakness.com/automate-and-finds-the-ip-address-of-a-website-behind-cloudflare-45db99510b4b)
+
+- [How I Found Multiple Origin IPs of Indian Govt and Acknowledged by CERT-In](https://infosecwriteups.com/how-i-found-multiple-origin-ips-of-indian-govt-and-acknowledged-by-cert-in-6e044eb02c74)
+
+- [Origin IP found, D-DOS & WAF Cloudflare protection bypassed](https://infosecwriteups.com/origin-ip-found-d-dos-waf-cloudflare-protection-bypassed-41fc280ccf8f)
+
+- [How I was able to bypass WAF and find the origin IP and a few sensitive files](https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7)
+
+- [($$$) Origin ip to account takeover](https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf)
+
+- [How finding origin IP got me an ATO](https://mux0xx.medium.com/how-finding-origin-ip-got-me-an-ato-bfc8c0db16c6)
+
+- [This Tool Helps Me To Find The Origin IP Address😍](https://ajakcybersecurity.medium.com/this-tool-helps-me-to-find-the-origin-ip-address-75b1444da57e)
+
+- [How I Discovering the Origin IP In Bug Bounty — Bug Bounty Tuesday](https://osintteam.blog/hou-i-discovering-the-origin-ip-in-bug-bounty-bug-bounty-tuesday-47fa16c4ef34)
+
+- [How to Find Origin IP of any Website Behind a WAF](https://infosecwriteups.com/how-to-find-origin-ip-of-any-website-behind-a-waf-c85095156ef7)
+
+- [How to Identify a Server’s Origin IP — And Why?](https://systemweakness.com/how-to-identify-a-servers-origin-ip-and-hy-b6312af71e51)
 
